@@ -52,6 +52,5 @@
             text = f.read()
         print(text)
 - del 把物件從記憶體中刪除
-- id 取得物件的記憶體位置
 - assert 測試或者除錯用的斷定
 - None 空值
